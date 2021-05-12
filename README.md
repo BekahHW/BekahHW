@@ -17,7 +17,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 #### ⚡ Fun facts 
 * I [came into tech after going through a trauma](https://www.youtube.com/watch?v=hejE4BYAqok) 
 * I found recovery in coding and weightlifting
-* I'm short 5'1, but that doesn't stop me from deadlifting 255 lbs.
+* I'm short, 5'1, but that doesn't stop me from deadlifting 255 lbs.
 
 <!--
 **BekahHW/BekahHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
