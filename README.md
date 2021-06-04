@@ -3,15 +3,15 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 
 
 ### More About Me
-💖  Creator and Maintainer of the [Virtual Coffee Community](virtualcoffee.io) 💖 
+💖  Creator and Maintainer of the [Virtual Coffee Community](https://virtualcoffee.io) 💖 
 
 💻  Independent Software Engineer
 
 🎙  Co-host and co-producer of the [Virtual Coffee podcast](https://virtualcoffee.io/podcast/)
 
-🐦  @BekahHW on Twitter
+🐦  [@BekahHW](https://twitter.com/BekahHW) on Twitter
 
-📷  [BekahHW](instagram.com/BekahHW) on Instragram
+📷  [BekahHW](https://instagram.com/BekahHW) on Instagram
 
 
 #### ⚡ Fun facts 
