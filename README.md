@@ -5,7 +5,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 ### More About Me
 💖  Creator and Maintainer of the [Virtual Coffee Community](https://virtualcoffee.io) 💖 
 
-💻  Independent Software Engineer
+💻  Technical Community Builder at [Deepgram](https://developers.deepgram.com/)
 
 🎙  Co-host and co-producer of the [Virtual Coffee podcast](https://virtualcoffee.io/podcast/)
 
