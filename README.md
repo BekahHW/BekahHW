@@ -20,9 +20,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 * I'm short, 5'1, but that doesn't stop me from deadlifting 255 lbs.
 
 ### Latest Personal Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 <!--
 **BekahHW/BekahHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
