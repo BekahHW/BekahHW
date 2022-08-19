@@ -2,7 +2,7 @@ name: Latest blog posts
 on:
   schedule:
     # Runs every day at midnight UTC
-    - cron: '33 12 * * *'
+    - cron: '40 12 * * *'
   workflow_dispatch:
 
 jobs:
