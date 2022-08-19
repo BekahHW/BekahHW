@@ -1,4 +1,4 @@
-### Hey! I'm BekahHW!
+## Hey! I'm BekahHW!
 I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consultancy specializing in front-end development, created the developer community called Virtual Coffee, continued to prolifically tweet, spoken on podcasts and at conferences, and continued to mom my four kids.  In my previous life, I spent 10 years teaching college English and three years organizing events and community. I fully embrace being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum.
 
 
@@ -18,6 +18,11 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 * I [came into tech after going through a trauma](https://www.youtube.com/watch?v=hejE4BYAqok) 
 * I found recovery in coding and weightlifting
 * I'm short, 5'1, but that doesn't stop me from deadlifting 255 lbs.
+
+### Latest Personal Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **BekahHW/BekahHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
