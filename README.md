@@ -20,7 +20,13 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 * I'm short, 5'1, but that doesn't stop me from deadlifting 255 lbs.
 
 ### Latest Personal Blog posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Communities Need Support](https://bekahhw.github.io/Communities-Need-Support)
+- [Reading List: The Early Career Edition](https://bekahhw.github.io/Reading-List)
+- [Virtual Coffee: An Update Going into Year 3](https://bekahhw.github.io/Virtual-Coffee-An-Update-Going-into-Year-3)
+- [So You Want to Get Started in Community?](https://bekahhw.github.io/Getting-Started-in-Community)
+- [Job Announcement: A Dev&#39;s Journey into Technical Community Building](https://bekahhw.github.io/Job-Announcement-A-Devs-Journey-into-Technical-Community-Building)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **BekahHW/BekahHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
