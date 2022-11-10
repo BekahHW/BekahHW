@@ -21,11 +21,11 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 
 ### Latest Personal Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reading List: The Community Builder Edition](https://bekahhw.github.io/Reading-List-The-Community-Builder-Edition)
 - [This Week in DevRel: Life Moves Fast](https://bekahhw.github.io/This-Week-in-DevRel-Life-Moves-Fast)
 - [Overcoming Imposter Syndrome](https://bekahhw.github.io/Overcoming-Imposter-Syndrome)
 - [Communities Need Support](https://bekahhw.github.io/Communities-Need-Support)
 - [Reading List: The Early Career Edition](https://bekahhw.github.io/Reading-List)
-- [Virtual Coffee: An Update Going into Year 3](https://bekahhw.github.io/Virtual-Coffee-An-Update-Going-into-Year-3)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
