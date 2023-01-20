@@ -18,6 +18,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 * I [came into tech after going through a trauma](https://www.youtube.com/watch?v=hejE4BYAqok) 
 * I found recovery in coding and weightlifting
 * I'm short, 5'1, but that doesn't stop me from deadlifting 265 lbs.
+* In 2023, I gave my first keynote: [The Power of Storytelling](https://youtu.be/Dcz0dOQmcaE).
 
 ### Latest Personal Blog posts
 <!-- BLOG-POST-LIST:START -->
