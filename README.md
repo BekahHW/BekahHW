@@ -22,11 +22,11 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 
 ### Latest Personal Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Positive Community for Your Open Source Project](https://bekahhw.github.io/Building-a-Supportive-Open-Source-Community)
-- [A Year in DevRel](https://bekahhw.github.io/A-Year-in-DevRel)
-- [Assume Best Intent](https://bekahhw.github.io/Assume-Best-Intent)
-- [We All Need Good Feedback](https://bekahhw.github.io/We-All-Need-Good-Feedback)
-- [Career Goal Setting](https://bekahhw.github.io/Career-Goal-Setting)
+- [How to Create a Positive Community for Your Open Source Project](https://bekahhw.com/Building-a-Supportive-Open-Source-Community)
+- [A Year in DevRel](https://bekahhw.com/A-Year-in-DevRel)
+- [Assume Best Intent](https://bekahhw.com/Assume-Best-Intent)
+- [We All Need Good Feedback](https://bekahhw.com/We-All-Need-Good-Feedback)
+- [Career Goal Setting](https://bekahhw.com/Career-Goal-Setting)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
