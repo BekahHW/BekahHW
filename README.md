@@ -22,7 +22,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 
 ### Latest Personal Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Top Interview Questions to Assess Company Culture Fit](https://bekahhw.com/Interview-Culture-Questions)
+- [Interview Questions to Assess Company Culture Fit](https://bekahhw.com/Interview-Culture-Questions)
 - [A Nontraditional Education in the Tech Industry](https://bekahhw.com/A-Nontraditional-Education-in-the-Tech-Industry)
 - [How to Create a Positive Community for Your Open Source Project](https://bekahhw.com/Building-a-Supportive-Open-Source-Community)
 - [A Year in DevRel](https://bekahhw.com/A-Year-in-DevRel)
