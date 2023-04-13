@@ -5,7 +5,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 ### More About Me
 💖  Creator and Maintainer of the [Virtual Coffee Community](https://virtualcoffee.io) 💖 
 
-💻  Team & Community Building Consultant
+💻  Developer Experience Lead, OpenSauced | Team & Community Building Consultant
 
 🎙  Co-host and co-producer of the [Virtual Coffee podcast](https://virtualcoffee.io/podcast/)
 
@@ -28,18 +28,3 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 - [A Year in DevRel](https://bekahhw.com/A-Year-in-DevRel)
 - [Assume Best Intent](https://bekahhw.com/Assume-Best-Intent)
 <!-- BLOG-POST-LIST:END -->
-
-<!--
-**BekahHW/BekahHW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
