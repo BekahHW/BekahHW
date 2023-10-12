@@ -1,0 +1,63 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout .github repository
+        uses: actions/checkout@v2
+        with:
+          repository: 'bekahHW/.github'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout profile README repository
+        uses: actions/checkout@v2
+        with:
+          repository: 'BekahHW/BekahHW'
+          path: 'BekahHW'
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20'
+
+      - name: Install Axios
+        run: npm install axios
+
+      - name: Fetch Latest Highlight and Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          const axios = require('axios');
+          const fs = require('fs');
+          const path = require('path');
+
+          async function fetchLatestHighlight() {
+            const apiEndpoint = 'https://api.opensauced.pizza/highlights?user=bekahHW';
+            const response = await axios.get(apiEndpoint);
+            return response.data.data[0].highlight;
+          }
+
+          async function updateReadme(highlight) {
+            const readmePath = path.join(__dirname, 'BekahHW', 'README.md');
+            const readme = fs.readFileSync(readmePath, 'utf8');
+            const updatedReadme = readme.replace(/<!-- OPENSAUCED_START -->[\s\S]+<!-- OPENSAUCED_END -->/, `<!-- OPENSAUCED_START -->\n${highlight}\n<!-- OPENSAUCED_END -->`);
+            fs.writeFileSync(readmePath, updatedReadme);
+          }
+
+          (async () => {
+            const latestHighlight = await fetchLatestHighlight();
+            if (latestHighlight) {
+              await updateReadme(latestHighlight);
+            }
+          })();
+
+          const execSync = require('child_process').execSync;
+          execSync('cd BekahHW && git add README.md');
+          execSync('cd BekahHW && git commit -m "Updated README with latest OpenSauced highlight"');
+          execSync('cd BekahHW && git push');
