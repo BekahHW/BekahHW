@@ -9,7 +9,7 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 
 🎙  Co-host and co-producer of the [Virtual Coffee podcast](https://virtualcoffee.io/podcast/)
 
-🐦  [@BekahHW](https://twitter.com/BekahHW) on Twitter
+🐦  [@BekahHW](https://twitter.com/BekahHW) on X
 
 📷  [BekahHW](https://instagram.com/BekahHW) on Instagram
 
