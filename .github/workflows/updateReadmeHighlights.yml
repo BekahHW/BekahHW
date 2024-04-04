@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day
+    - cron: '10 19 * * *'
 
 jobs:
   update:
