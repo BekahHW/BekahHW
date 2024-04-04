@@ -2,7 +2,7 @@ name: Update Profile README
 
 on:
   schedule:
-    - cron: '15 19 * * *'
+    - cron: '20 20 * * *'
 
 jobs:
   update:
