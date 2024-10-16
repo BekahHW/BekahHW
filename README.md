@@ -1,5 +1,5 @@
 ## Hey! I'm BekahHW!
-I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consultancy specializing in front-end development, created the developer community called Virtual Coffee, continued to prolifically tweet, spoken on podcasts and at conferences, and continued to mom my four kids.  In my previous life, I spent 10 years teaching college English and three years organizing events and community. I fully embrace being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum.
+I'm a 2019 Flatiron School bootcamp grad, and since then, I've started a consultancy specializing in front-end development, created the developer community called Virtual Coffee, continued to prolifically tweet, spoken on podcasts and at conferences, and continued to mom my four kids.  Beyond my tech experience, I've spent ten years teaching college English and seven years organizing events and community. I fully embrace being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum, and a [YA book coming November 2024](https://www.siblingswrite.com/).
 
 
 ### More About Me
@@ -20,17 +20,6 @@ I'm a 2019 Flatiron School bootcamp grad, and since then I've started a consulta
 * I'm short, 5'1, but that doesn't stop me from deadlifting 265 lbs.
 * In 2023, I gave my first keynote: [The Power of Storytelling](https://youtu.be/Dcz0dOQmcaE).
 
-### Latest Personal Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Being a Hybrid Friend is Hard](https://bekahhw.com/Being-a-Hybrid-Friend-is-Hard)
-- [The Evolving Landscape of DevRel: Trends and Predictions for 2023](https://bekahhw.com/The-Evolving-Landscape-of-DevRel)
-- [Hiring, Firing, and Becoming Indispensable](https://bekahhw.com/Hiring,-Firing,-and-Becoming-Indispensable)
-- [Interview Questions to Assess Company Culture Fit](https://bekahhw.com/Interview-Culture-Questions)
-- [A Nontraditional Education in the Tech Industry](https://bekahhw.com/A-Nontraditional-Education-in-the-Tech-Industry)
-<!-- BLOG-POST-LIST:END -->
-
-### Latest Highlights
-<!-- OPENSAUCED_START -->
-<!-- This section will be automatically updated -->
-<!-- OPENSAUCED_END -->
+### Tech Writing
+You can find me on the [OpenSauced Blog](https://opensauced.pizza/blog) and on [Dev.to](https://dev.to/bekahhw).
 
