@@ -1,11 +1,11 @@
 ## Hey! I'm BekahHW!
-I'm a 2019 Flatiron School bootcamp grad, and since then, I've started a consultancy specializing in front-end development, created the developer community called Virtual Coffee, continued to prolifically tweet, spoken on podcasts and at conferences, and continued to mom my four kids.  Beyond my tech experience, I've spent ten years teaching college English and seven years organizing events and community. I fully embrace being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum, and a [YA book coming November 2024](https://www.siblingswrite.com/).
+I'm a 2019 Flatiron School bootcamp grad, and since then, I've started a consultancy specializing in front-end development, created the developer community called Virtual Coffee, continued to prolifically tweet, spoken on podcasts and at conferences, and continued to mom my four kids.  Beyond my tech experience, I've spent ten years teaching college English and seven years organizing events and community. I fully embrace being a writer of many genres: code, non-fiction, screenplay, poetry, curriculum, and a [YA book](https://www.siblingswrite.com/works/).
 
 
 ### More About Me
 💖  Creator and Maintainer of the [Virtual Coffee Community](https://virtualcoffee.io) 💖 
 
-💻  Developer Experience Lead, [OpenSauced](https://opensauced.pizza/) | Team & Community Building Consultant
+💻  DevRel, Team Building, & Content Consultant: https://bekahhw.com/my-work
 
 🎙  Co-host and co-producer of the [Virtual Coffee podcast](https://virtualcoffee.io/podcast/)
 
@@ -21,5 +21,5 @@ I'm a 2019 Flatiron School bootcamp grad, and since then, I've started a consult
 * In 2023, I gave my first keynote: [The Power of Storytelling](https://youtu.be/Dcz0dOQmcaE).
 
 ### Tech Writing
-You can find me on the [OpenSauced Blog](https://opensauced.pizza/blog) and on [Dev.to](https://dev.to/bekahhw).
+You can find me at [bekahhw.com](https://bekahhw.com/) and on [Dev.to](https://dev.to/bekahhw).
 
